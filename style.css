@@ -1,0 +1,19 @@
+*{
+    margin: 35px;
+    /*border: solid;*/
+    /*border-color: aqua;*/
+}
+.name{
+    color: blue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.gameList{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.socialMedia{
+    display: flex;
+    justify-content: center;
+}
